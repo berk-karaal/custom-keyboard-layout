@@ -74,6 +74,8 @@ xkb_symbols "my_layout" {
     key <AC07>  { [         j,          J,          Left,    VoidSymbol ] };
     key <AC08>  { [         k,          K,          Down,    VoidSymbol ] };
     key <AC09>  { [         l,          L,         Right,    VoidSymbol ] };
+    key <AD09>  { [         o,          O,           End,   Ocircumflex ] };
+    key <AD07>  { [         u,          U,          Home,   Ucircumflex ] };
 
 };
 
