@@ -1,12 +1,14 @@
 # custom keyboard layout
-preview:
+preview (It's out of date, I'll update it with a more understandable image):
 ![preview of custom keyboard layout](layout_preview.png)
 
-#### changes:
+#### Shortcuts:
 - altgr + ı :arrow_right: Up (Up Arrow key)
 - altgr + j :arrow_right: Left (Left Arrow key)
 - altgr + k :arrow_right: Down (Down Arrow key)
 - altgr + l :arrow_right: Right (Right Arrow key)
+- altgr + u :arrow_right: Home
+- altgr + o :arrow_right: End
 - ı (i-dotless) :arrow_right: i
 - i :arrow_right: ı (i-dotless)
 - ş (scedilla) Ş (Scedilla) :arrow_right: , ;
