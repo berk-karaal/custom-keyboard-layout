@@ -1,5 +1,5 @@
 # custom keyboard layout
-preview (It's out of date, I'll update it with a more understandable image):
+preview:
 ![preview of custom keyboard layout](layout_preview.png)
 
 #### Shortcuts:
