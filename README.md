@@ -1,6 +1,7 @@
 # custom keyboard layout
 preview:
-![preview of custom keyboard layout](layout_preview.png)
+![layout_preview2](https://user-images.githubusercontent.com/21236709/148649766-729b5b5e-61b4-4d9e-a36d-b18b0898167a.png)
+
 
 #### Shortcuts:
 - altgr + ı :arrow_right: Up (Up Arrow key)
@@ -9,6 +10,8 @@ preview:
 - altgr + l :arrow_right: Right (Right Arrow key)
 - altgr + u :arrow_right: Home
 - altgr + o :arrow_right: End
+
+#### Location changes:
 - ı (i-dotless) :arrow_right: i
 - i :arrow_right: ı (i-dotless)
 - ş (scedilla) Ş (Scedilla) :arrow_right: , ;
