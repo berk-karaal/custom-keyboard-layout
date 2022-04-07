@@ -1,7 +1,6 @@
 # custom keyboard layout
-preview(old):
-![layout_preview2](https://user-images.githubusercontent.com/21236709/148649766-729b5b5e-61b4-4d9e-a36d-b18b0898167a.png)
-
+preview:
+![berk custom keyboard layout](https://user-images.githubusercontent.com/21236709/162149461-d0213691-29af-4b08-9168-a3da6a3302db.png)
 
 #### Shortcuts:
 - altgr + ı :arrow_right: Up (Up Arrow key)
@@ -18,6 +17,7 @@ preview(old):
 - , ; :arrow_right: ş (scedilla) Ş (Scedilla)
 
 - Caps Lock :arrow_right: Backspace, Delete(Shift+CapsLock)
+- Extended left shift (use ```alt + "``` ```alt + 1``` to type less/greater than signs)
 
 ---
 
