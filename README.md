@@ -2,6 +2,11 @@
 preview:
 ![berk custom keyboard layout](https://user-images.githubusercontent.com/21236709/162149461-d0213691-29af-4b08-9168-a3da6a3302db.png)
 
+### Add this layout to X11/xkb
+```console
+sudo bash add_layout.sh
+```
+
 #### Shortcuts:
 - altgr + ı :arrow_right: Up (Up Arrow key)
 - altgr + j :arrow_right: Left (Left Arrow key)
