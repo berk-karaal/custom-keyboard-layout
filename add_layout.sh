@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+if [ `whoami` != root ]; then
+    echo "Please run this script using sudo"
+    exit 1
+fi
+
 echo "run: cp ./X11/xkb/rules/* /usr/share/X11/xkb/rules/"
 cp ./X11/xkb/rules/* /usr/share/X11/xkb/rules/
 
