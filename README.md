@@ -1,3 +1,9 @@
+# Update
+
+I finally came across [keyd](https://github.com/rvaiya/keyd) software which is a better way to do keyboard customization/keyboard mapping. I recommend using this software instead of creating custom keyboard layouts.
+
+Since I don't use custom keyboard layouts anymore, I'm archiving this repository.
+
 # custom keyboard layout
 preview:
 ![berk custom keyboard layout](https://user-images.githubusercontent.com/21236709/162149461-d0213691-29af-4b08-9168-a3da6a3302db.png)
